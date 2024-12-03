@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "rTIr/KWrTzrG6TBvQE3hBE7ca6hkBbIc2obOm5W1Rbw=",
+  "Source": "APIBackend",
+  "BasePath": "_content/APIBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

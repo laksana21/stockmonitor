@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|c:\\users\\m s i\\onedrive\\documents\\projects\\pelni\\apibackend\\core\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|solutionrelative:core\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|c:\\users\\m s i\\onedrive\\documents\\projects\\pelni\\apibackend\\core\\generalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|solutionrelative:core\\generalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|c:\\users\\m s i\\onedrive\\documents\\projects\\pelni\\apibackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|c:\\users\\m s i\\onedrive\\documents\\projects\\pelni\\apibackend\\core\\itemfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|solutionrelative:core\\itemfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|c:\\users\\m s i\\onedrive\\documents\\projects\\pelni\\apibackend\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|solutionrelative:controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|c:\\users\\m s i\\onedrive\\documents\\projects\\pelni\\apibackend\\core\\posservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|solutionrelative:core\\posservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|c:\\users\\m s i\\onedrive\\documents\\projects\\pelni\\apibackend\\core\\posfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|solutionrelative:core\\posfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|c:\\users\\m s i\\onedrive\\documents\\projects\\pelni\\apibackend\\controllers\\poscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|solutionrelative:controllers\\poscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|c:\\users\\m s i\\onedrive\\documents\\projects\\pelni\\apibackend\\interface\\iposfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABFE22EC-5A52-4175-BBAB-D7B5FE7FF058}|APIBackend.csproj|solutionrelative:interface\\iposfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T14:40:42.972Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneralService.cs",
+              "DocumentMoniker": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Core\\GeneralService.cs",
+              "RelativeDocumentMoniker": "Core\\GeneralService.cs",
+              "ToolTip": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Core\\GeneralService.cs",
+              "RelativeToolTip": "Core\\GeneralService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIAwwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:24:32.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Core\\ItemService.cs",
+              "RelativeDocumentMoniker": "Core\\ItemService.cs",
+              "ToolTip": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Core\\ItemService.cs",
+              "RelativeToolTip": "Core\\ItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:16:55.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemFacade.cs",
+              "DocumentMoniker": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Core\\ItemFacade.cs",
+              "RelativeDocumentMoniker": "Core\\ItemFacade.cs",
+              "ToolTip": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Core\\ItemFacade.cs",
+              "RelativeToolTip": "Core\\ItemFacade.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:05:58.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Controllers\\ItemController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwFcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:05:53.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "POSController.cs",
+              "DocumentMoniker": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Controllers\\POSController.cs",
+              "RelativeDocumentMoniker": "Controllers\\POSController.cs",
+              "ToolTip": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Controllers\\POSController.cs",
+              "RelativeToolTip": "Controllers\\POSController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T07:24:54.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "POSFacade.cs",
+              "DocumentMoniker": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Core\\POSFacade.cs",
+              "RelativeDocumentMoniker": "Core\\POSFacade.cs",
+              "ToolTip": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Core\\POSFacade.cs",
+              "RelativeToolTip": "Core\\POSFacade.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:47:08.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPOSFacade.cs",
+              "DocumentMoniker": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Interface\\IPOSFacade.cs",
+              "RelativeDocumentMoniker": "Interface\\IPOSFacade.cs",
+              "ToolTip": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Interface\\IPOSFacade.cs",
+              "RelativeToolTip": "Interface\\IPOSFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:45:59.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "POSService.cs",
+              "DocumentMoniker": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Core\\POSService.cs",
+              "RelativeDocumentMoniker": "Core\\POSService.cs",
+              "ToolTip": "C:\\Users\\M S I\\OneDrive\\Documents\\Projects\\Pelni\\APIBackend\\Core\\POSService.cs",
+              "RelativeToolTip": "Core\\POSService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAMwCoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T01:16:27.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
