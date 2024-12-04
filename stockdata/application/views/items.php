@@ -42,6 +42,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                                 <th>Price</th>
                                                 <th>Category</th>
                                                 <th style="width: 150px">Image</th>
+                                                <th style="width: 100px">Actions</th>
                                             </tr>
                                         </thead>
                                         <tbody>
@@ -52,6 +53,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                                 <td><?php echo $i->price ?></td>
                                                 <td><?php echo $i->category ?></td>
                                                 <td><img class="img-fluid" id="itemImage" src="https://localhost:7147/resources/<?php echo $i->image ?>" alt="Item image"></td>
+                                                <td><a href="<?php echo base_url() ?>item/edit/<?php echo $i->id ?>" class="btn btn-primary" name="save" value="create">Edit Item</a></td>
                                             </tr>
                                             <?php $a++; } ?>
                                         </tbody>

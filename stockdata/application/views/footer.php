@@ -17,6 +17,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <script src="<?php echo base_url() ?>assets/js/adminlte.js"></script> <!--end::Required Plugin(AdminLTE)--><!--begin::OverlayScrollbars Configure-->
     <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
     <script>
+      $(document).ready(function() {
+        if($("#categoryselect").length)
+        {
+          var catId = $("#categoryselect").val();
+          $("#itemeditcategory").val(catId).change();
+        }
+      });
+
       function gettotalpice(){
         var price = $("#itemprice").val();
         var amt = $("#itememount").val();
